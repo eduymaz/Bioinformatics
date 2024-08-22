@@ -1,4 +1,4 @@
-# SingleCellRNAseq-AlternativeSplicing-
+# SingleCellRNAseq | AlternativeSplicing
 
 Background/Aim
 
