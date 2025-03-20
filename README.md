@@ -1,2 +1,2 @@
 # Bioinformatics
-My projects |  Elif Duymaz
+My projects |   MSc. Elif Duymaz Yilmaz
