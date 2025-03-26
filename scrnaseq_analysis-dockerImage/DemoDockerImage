@@ -1,0 +1,5 @@
+Here are the pipelines and their combinations in the singlecellquest project. 
+The requirements of all tools used in the demo folder are installed. 
+The first step was to download the .fastq files with fastq-dump from sratoolkit, 
+followed by the fastqc step and then alignment with Kallisto. 
+Visualizations and filtering analysis were completed with Seurat R code.
