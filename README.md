@@ -54,14 +54,6 @@ Bioinformatics/
 - Python 3.7+ (for SCATS)
 - Bash shell
 
-## 🤝 Contributing
-
-To add a new analysis module:
-1. Create a new directory (e.g., `my_pipeline/`).
-2. Add your Dockerfile, scripts, or Nextflow/Snakemake workflows.
-3. Add a brief description line to this `README.md`.
-4. Submit a pull request.
-
 ---
 
 *All rights reserved.*
