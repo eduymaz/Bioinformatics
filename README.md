@@ -64,4 +64,4 @@ To add a new analysis module:
 
 ---
 
-*All projects are licensed under Creative Commons Attribution-ShareAlike (CC BY-SA 4.0).*
+*All rights reserved.*
