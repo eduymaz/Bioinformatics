@@ -19,7 +19,7 @@ Highlighting the zygotic stage as the most AS-driven phase, the comprehensive li
 #### | Keywords:
 Human preimplantation, embryonic development, alternative splicing, exon, bioinformatics
 
-<img width="792" alt="Fig 1 _ EmbryoDevelopment.png" src="[https://github.com/eduymaz/Bioinformatics/blob/main/alternative-splicing-scrna-seq/Fig%201%20_%20EmbryoDevelopment.png]"
+![Embryo Development](https://raw.githubusercontent.com/eduymaz/Bioinformatics/main/alternative-splicing-scrna-seq/Fig%201%20_%20EmbryoDevelopment.png)
 
 Figure 1 | Schema of embryo development.
 
